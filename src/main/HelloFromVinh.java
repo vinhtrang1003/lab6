@@ -21,7 +21,7 @@ public class HelloFromVinh {
         System.out.println("Fourth push from Surbir conflicted resolved");
         
         System.out.println("This is speaking from MasterBranch");
-    
+        System.out.println("This is speaking from VinhBranch");
 
 }
 }
